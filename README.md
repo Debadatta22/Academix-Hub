@@ -49,6 +49,7 @@ Results (semester-wise CGPA)
 Messages (admin-to-student)
 
 Each module is backed by its own struct and managed via arrays.
+
 💾 Data Persistence
 All data is stored using binary files (students.dat). It supports:
 
