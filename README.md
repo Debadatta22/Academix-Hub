@@ -33,7 +33,6 @@ Academix Hub is a C-based console application crafted to manage essential academ
 
 🎯 Browse Subjects Info, Vision, Mission, etc.
 
-
 🗃️ Modules & Structures
 The system handles:
 
