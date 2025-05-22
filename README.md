@@ -202,6 +202,25 @@ Structured in a table format for neat reading.
 🧹 Just In Case — Clear All Function
 Sometimes, a fresh start is needed. clearAllData() resets all counters and deletes the binary file. This option is locked away in the admin menu — guarded, like a vault key.
 
+SCREENSHOTS
+![Image](https://github.com/user-attachments/assets/f476a299-f2ef-4347-8a2a-91064648801d)
+![Image](https://github.com/user-attachments/assets/63502387-64b6-4ce2-b1ca-39b95ea572ef)
+![Image](https://github.com/user-attachments/assets/3b052721-c638-47bb-a634-2ae594436f38)
+![Image](https://github.com/user-attachments/assets/2e86ac6b-531c-45af-b387-be119d8cff8f)
+![Image](https://github.com/user-attachments/assets/5fa19146-973b-4a6a-90aa-0fe824a9c102)
+![Image](https://github.com/user-attachments/assets/504dd0d4-8638-446f-9f7d-2e66a8e4f134)
+![Image](https://github.com/user-attachments/assets/695ed50b-df8a-4f57-a72a-0478bb9055b9)
+![Image](https://github.com/user-attachments/assets/238c0987-226c-4a3c-9bda-fd2cb82ac31e)
+![Image](https://github.com/user-attachments/assets/d33ff22b-cd18-42c0-b637-0f584203156b)
+![Image](https://github.com/user-attachments/assets/5c0e0591-fe70-427b-b095-421f97c9cc23)
+![Image](https://github.com/user-attachments/assets/0ed27aad-d414-43b7-a4fb-cd78f9ca7d66)
+![Image](https://github.com/user-attachments/assets/ed1a3106-6301-4247-b192-731bc1140bff)
+![Image](https://github.com/user-attachments/assets/6869f2ea-2ebb-45f5-8ee7-0bc90d44aef3)
+![Image](https://github.com/user-attachments/assets/42106061-a7d8-44d5-8b1c-bb3d4dca0f50)
+![Image](https://github.com/user-attachments/assets/32c43c01-d7d8-4bd7-a0b7-179b5f73d072)
+![Image](https://github.com/user-attachments/assets/5a60a41c-3876-46b6-bde3-4bdcf3b28db3)
+![Image](https://github.com/user-attachments/assets/3e16d1a4-98dd-44b0-899e-e0fc8c3c7927)
+
 🧾 The Result — Easy, Efficient, Empowering
 After months of planning, debugging, and testing, we created a full-fledged system that lets:
 
